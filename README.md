@@ -136,5 +136,5 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: your-profile-link  
+Akash Singh 
+GitHub:(https://github.com/akashsingh005006)
